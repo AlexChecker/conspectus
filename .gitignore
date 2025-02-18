@@ -1,5 +1,6 @@
 *.log
 *.aux
 *.out
-*.syntex.gz
+*.synctex.gz
 *.toc
+.DS_Store
